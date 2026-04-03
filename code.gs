@@ -2,7 +2,7 @@
  * ============================================================
  *  INDIAN EQUITY PORTFOLIO TRACKER — Google Apps Script
  *  Author  : [vinit kumar]
- *  GitHub  : []
+ *  GitHub  : [vinit-fin]
  *  Version : 2.0  |  Live prices via GOOGLEFINANCE()
  * ============================================================
  *
