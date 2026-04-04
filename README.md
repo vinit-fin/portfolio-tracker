@@ -26,7 +26,6 @@ Built as part of my finance portfolio to demonstrate real-world use of Google Wo
 |:-:|:-:|
 | Live prices, P&L per stock, color-coded rows | KPI cards, allocation chart, sector summary |
 
-> *Screenshots to be added after first run*
 <img width="1893" height="536" alt="image" src="https://github.com/user-attachments/assets/1d206e12-3558-4af8-90ff-10a0dcad6668" />
 
 ---
